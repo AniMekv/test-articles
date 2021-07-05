@@ -1,0 +1,42 @@
+[{
+    "name": "Nike Air Force 1",
+    "description": "Kick it in comfort in the Nike Air Force 1. The feel of classic leather and details that made this shoe an icon are sure to make your sneaker style stand out on the street.",
+    "price": "95",
+    "hero": "OMG This just came out today!",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/e125b578-4173-401a-ab13-f066979c8848/air-force-1-older-shoe-1hqfHl.png"
+}, {
+    "name": "Nike Air Force 1 Low LV8",
+    "description": "The radiance lives on in the Nike Air Force 1 Low LV8, the b-ball OG that puts a fresh spin on what you know best: crisp leather, bold colours and the perfect amount of flash to make you shine. This re-imagined version features earthy tones with a pop of floral contrast on the heel tab and tongue label for a laid-back finish.",
+    "price": "99",
+    "info": "This is the latest and greatest product from Derp corp.",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/6d4cea7f-3258-40c1-99ae-845e7cdbcbf2/air-force-1-low-lv8-older-shoe-ls935J.png"
+}, {
+    "name": "SUPERSTAR SHOES",
+    "description": "Head offshore like Disney's Ariel in the adidas Superstar shoes. An icon since the '70s, these Superstar shoes feature all their classic details, but now with an exclusive mermaid touch. Reel in all your Disney nostalgia as these shoes join a collection that takes inspiration from The Little Mermaid. The off-white colors of this Superstar shoe give space for its iconic design to still breathe and makes it easy to pair with jeans, joggers or whatever your offshore outfit may be. Part of an exclusive collection, only available on adidas.com and in-store.",
+    "price": "99",
+    "offer": "BOGOF",
+    "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/be1f2621241a4c708ac1acb5010df2a3_9366/Superstar_Shoes_White_GZ0474_01_standard.jpg"
+}, {
+    "name": "ULTRABOOST 21 SHOES",
+    "description": "Show up for yourself. These adidas Ultraboost 21 running shoes make it easier. Lightweight but without sacrificing an ounce of support, the adidas Primeknit+ upper adapts to the changing shape of your foot as you push forward. Responsive Boost cushioning gives you an energized feeling that reminds you that you can always go one more step, maybe one more block or perhaps another mile. (Throw a few extra songs on your playlist. You never know.)",
+    "price": "99",
+    "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/d9bbf995ab314f61b439acb800f5eadf_9366/Ultraboost_21_Shoes_Pink_S23838_01_standard.jpg"
+}, {
+    "name": "OWN THE RUN TEE",
+    "description": "Life gets busy and complicated. Some days you don't feel like you have the time, or the energy, for a run. Keep things simple with this adidas Own the Run t-shirt. It's soft, comfortable and quick-drying. Plus it's made with recycled materials, part of adidas' commitment to creating a more sustainable future. So you can feel good about the shirt on your back when you lay down those miles.",
+    "price": "99",
+    "offer": "No srsly GTFO",
+    "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2eb52e833b644f099180ac8401169eb3_9366/Own_the_Run_Tee_White_GJ9989_21_model.jpg"
+}, {
+    "name": "ADICOLOR CLASSICS OVERSIZE TEE",
+    "description": "No matter where you go, you'll never forget where you came from. A celebration of adidas' rich DNA and legacy, this t-shirt showcases the iconic marks of the Trefoil logo and signature 3-Stripes. Reminder: there is no bad time to celebrate. Throw it on and get after it.",
+    "price": "99",
+    "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/ce702efd1de14d39a7d3ad0401365597_9366/Adicolor_Classics_Oversize_Tee_Pink_H37797_21_model.jpg"
+}, {
+    "name": "ADICOLOR CLASSICS 3-STRIPES PANTS",
+    "description": "Straightforwardly adidas. Keep your look low-key and legit in these pants. Contrast 3-Stripes and a Trefoil logo are as OG as it gets. Feel cozy and warm in fleece. Secure your stuff in zip pockets. And we're done here.",
+    "price": "99",
+    "info": "This is the latest and greatest product from Derp corp.",
+    "offer": "info with offer",
+    "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/50f9c7a77dc04781925aac3800f96e83_9366/Adicolor_Classics_3-Stripes_Pants_Black_GN3458_21_model.jpg"
+}]
